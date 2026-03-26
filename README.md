@@ -12,7 +12,7 @@ Five probability curves plotting your chance of reaching each Limit Break stage 
 | **1LB**       | At least 2 copies              |
 | **2LB**       | At least 3 copies              |
 | **3LB**       | At least 4 copies              |
-| **4LB / MLB** | All 5 copies (Max Limit Break) |
+| **4LB / MLB** | All 5 copies (MLB) |
 
 Sparking is guaranteed at 200, 400, and 600 pulls are annotated on the graph and cause visible probability jumps.
 
