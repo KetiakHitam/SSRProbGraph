@@ -1,5 +1,9 @@
 # Umamusume SSR Gacha Probability Graph
 
+<p align="center">
+  <img src="kitasan.gif" alt="Kitasan Black" width="300">
+</p>
+
 Visualized probability of obtaining SSR in Umamusume, rates and probability taken from the Kitasan Black Probability Spreadsheet by u/xSacrificer on reddit.
 
 ## What This Shows
